@@ -23,7 +23,7 @@ def index():
 def info_api():
     info = {
         "model_details": {
-            "name": "linknet",
+            "name": "resnet",
             "accuracy": 0.95
         }
     }
