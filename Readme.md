@@ -10,4 +10,7 @@ docker build -t flask-test .
 docker run --name flask-test -d flask-test
 ```
 
-## Running using docker compose 
+## Running with docker compose 
+```bash
+docker-compose up
+```
